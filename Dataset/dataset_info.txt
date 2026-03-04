@@ -1,10 +1,17 @@
-Dataset Name: Online Shoppers Intention Dataset
+Dataset Name:
+Online Shoppers Intention Dataset (UCI Machine Learning Repository)
 
 Source (Kaggle URL):
 https://www.kaggle.com/datasets/henrysue/online-shoppers-intention
 
 License Information:
-Kaggle Public Dataset (Check Kaggle page for specific license details).
+Other (specified in description) – as stated on the Kaggle dataset page.
 
 Original Purpose:
-This dataset was created to analyze online shopping behavior and predict whether a browsing session results in a purchase (Revenue = TRUE) or not (Revenue = FALSE). It contains information about user session attributes such as page visits, time spent, bounce rate, visitor type, and other related features.
+The dataset consists of feature vectors belonging to 12,330 user sessions. 
+It was created to analyze online shopping behavior and predict whether a browsing session results in a purchase (Revenue = TRUE) or not (Revenue = FALSE). 
+Each session belongs to a different user over a one-year period to avoid bias related to specific campaigns, special days, user profiles, or seasonal effects.
+
+Dataset Origin:
+UCI Machine Learning Repository
+https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
