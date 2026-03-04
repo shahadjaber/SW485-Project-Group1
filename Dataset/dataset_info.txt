@@ -1,6 +1,10 @@
 Dataset Name: Online Shoppers Intention Dataset
-Source: https://www.kaggle.com/datasets/henrysue/online-shoppers-intention
-License: Kaggle Public Dataset
-Description:
-This dataset contains information about user browsing sessions and whether they resulted in a purchase (Revenue).
-It includes 12,000+ sessions and 18 features.
+
+Source (Kaggle URL):
+https://www.kaggle.com/datasets/henrysue/online-shoppers-intention
+
+License Information:
+Kaggle Public Dataset (Check Kaggle page for specific license details).
+
+Original Purpose:
+This dataset was created to analyze online shopping behavior and predict whether a browsing session results in a purchase (Revenue = TRUE) or not (Revenue = FALSE). It contains information about user session attributes such as page visits, time spent, bounce rate, visitor type, and other related features.
