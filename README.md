@@ -1,28 +1,32 @@
-# SW485-Project-Group1
-
 # Online Purchase Prediction System
 
 ## Course
 SWE485 – Selected Topics in Software Engineering  
-King Saud University – Software Engineering Department  
+Software Engineering Department  
+King Saud University  
+Second Semester 1447  
 
-## Project Description
-This project aims to build a machine learning classification model that predicts whether an online shopping session will result in a purchase (Revenue = TRUE) or not (Revenue = FALSE) based on user browsing behavior.
+---
 
-## Dataset
-Online Shoppers Intention Dataset  
-Source: https://www.kaggle.com/datasets/henrysue/online-shoppers-intention 
+## Project Title
+Online Purchase Prediction System
 
-## Project Structure
-- Dataset/
-- Phase1_Data_Exploration.ipynb
-- Supervised_Learning/
+---
+
+## Motivation 
+
+Online businesses often struggle to determine whether a website visitor will complete a purchase. Accurately predicting purchase intention can significantly improve marketing strategies, increase conversion rates, and reduce unnecessary advertising costs.
+
+The "Online Shoppers Intention Dataset" was selected because it represents a real-world e-commerce problem. It contains detailed browsing session information and a binary target variable ("Revenue"), making it suitable for supervised machine learning classification.
+
+---
 
 ## Group Members
-- Shahad Awaji – (443201091)
-- Member 2 – (ID)
-- Member 3 – (ID)
-- Member 4 – (ID)
-- Member 5 – (ID)
-- Member 6 – (ID)
-- Member 7 – (ID)
+
+- Shahad Awaji – [443201091]
+- Member 2 – [ID]
+- Member 3 – [ID]
+- Member 4 – [ID]
+- Member 5 – [ID]
+- Member 6 – [ID]
+- Member 7 – [ID]
