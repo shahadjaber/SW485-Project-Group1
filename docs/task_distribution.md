@@ -4,9 +4,9 @@
 - Shahad: Problem definition, Dataset justification
 - Layan: EDA
 
-## Preprocessing Team
-- Member 3
-- Member 4
+## Preprocessing & Visualization Team
+- Raghad Alyousef
+- Roaa wadah
 
 ## Modeling & Evaluation Team
 - Member 5
