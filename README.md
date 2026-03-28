@@ -27,6 +27,6 @@ The "Online Shoppers Intention Dataset" was selected because it represents a rea
 - Raghad Alyousef – [443201008]
 - Hajar Alonayq – [444200784]
 - Roaa Tashish– [443204606]
-- Member 5 – [ID]
+- Yasmeen Otyfah – [443204580]
 - Member 6 – [ID]
 - Member 7 – [ID]
