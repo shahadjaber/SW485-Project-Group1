@@ -9,6 +9,7 @@
 - Roaa wadah
 
 ## Modeling & Evaluation Team
-- Member 5
+- Hajar Alonayq: Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation
+
 - Member 6
 - Member 7
