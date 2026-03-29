@@ -9,6 +9,6 @@
 - Roaa wadah: Data preprocessing implementation (cleaning, encoding, scaling)
 
 ## Modeling & Evaluation Team
-- Hajar Alonayq: Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation
-- Member 6
-- Member 7
+- Hajar Alonayq: Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation (GXBoots)
+- Yasmeen Otyfah: Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation (Random Forest)
+- ejdan Alrumaih:  Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation (Logistic Regression)
