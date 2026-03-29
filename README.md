@@ -28,5 +28,5 @@ The "Online Shoppers Intention Dataset" was selected because it represents a rea
 - Hajar Alonayq – [444200784]
 - Roaa Tashish– [443204606]
 - Yasmeen Otyfah – [443204580]
-- Wejdan Alrumaih – [ID]
-- Yasmeen Otyfah – [ID]
+- Wejdan Alrumaih – [443204560]
+- Yasmeen Otyfah – [443204580]
