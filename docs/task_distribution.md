@@ -11,4 +11,4 @@
 ## Modeling & Evaluation Team
 - Hajar Alonayq: Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation (GXBoots)
 - Yasmeen Otyfah: Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation (Random Forest)
-- ejdan Alrumaih:  Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation (Logistic Regression)
+- Wejdan Alrumaih:  Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation (Logistic Regression)
