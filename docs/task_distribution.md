@@ -5,11 +5,10 @@
 - Layan: EDA
 
 ## Preprocessing & Visualization Team
-- Raghad Alyousef
-- Roaa wadah
+- Raghad Alyousef: Preprocessing pipeline documentation, interpretation of results, key insights & challenges
+- Roaa wadah: Data preprocessing implementation (cleaning, encoding, scaling)
 
 ## Modeling & Evaluation Team
 - Hajar Alonayq: Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation
-
 - Member 6
 - Member 7
