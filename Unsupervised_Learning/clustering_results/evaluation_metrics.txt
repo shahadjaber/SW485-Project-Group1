@@ -1,1 +1,21 @@
 
+Clustering Evaluation Summary
+==============================
+
+K-Means:
+  Silhouette Score : 0.452
+  Davies-Bouldin   : 0.988
+  WCSS (Inertia)   : 294150.162
+
+Agglomerative:
+  Silhouette Score : 0.449
+  Davies-Bouldin   : 0.984
+  WCSS             : N/A
+
+BCubed:
+  K-Means        → Precision: 0.738 | Recall: 0.717
+  Agglomerative  → Precision: 0.738 | Recall: 0.722
+
+Notes:
+  Higher Silhouette = better
+  Lower Davies-Bouldin = better
