@@ -1,8 +1,8 @@
 # ==========================================
 # API Configuration Settings
 # ==========================================
+
 # Note: For security reasons, the actual API key is managed via Google Colab's userdata (Secrets).
-# Do NOT hardcode or upload the real API key to GitHub.
 
 API_SETTINGS = {
     "PROVIDER": "Groq",
