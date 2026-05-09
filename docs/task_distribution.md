@@ -19,7 +19,9 @@
 ## Phase 2 | UnSupervised Learning
 
 ### Unsupervised Learning Team 
+- Roaa wadah: K-Means Clustering & Silhouette Score (Unsupervised Learning)
 - Hajar Alonayq:  Agglomerative clustering, validation metrics, and data visualization
 ### Generative AI Team
+- Shahad: Prompt Template Design Documentation, prompt_design_rationale.md, AI prompt templates and rationale documentation
 - Raghad Alyousef: Best Prompt Selection & Justification, Integration Plan for Final System, Ethical Considerations & Limitations, Lessons Learned During Prompt Testing, References to Prompt Engineering Best Practices
 ### Integration & Documentation Lead 
