@@ -16,7 +16,7 @@
 - Wejdan Alrumaih:  Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation (Logistic Regression)
 
 
-## Phase 2 | UnSupervised Learning
+## Phase 2 | Unsupervised Learning
 
 ### Unsupervised Learning Team 
 - Roaa wadah: K-Means Clustering & Silhouette Score (Unsupervised Learning)
