@@ -19,5 +19,6 @@
 ## Phase 2 | UnSupervised Learning
 
 ### Unsupervised Learning Team 
-### Generative AI Team 
+### Generative AI Team
+- Raghad Alyousef: Best Prompt Selection & Justification, Integration Plan for Final System, Ethical Considerations & Limitations, Lessons Learned During Prompt Testing, References to Prompt Engineering Best Practices
 ### Integration & Documentation Lead 
