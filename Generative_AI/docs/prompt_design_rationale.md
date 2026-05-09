@@ -19,3 +19,26 @@ The prompt design was influenced by the Online Shoppers Intention dataset and th
 These features helped guide the wording of the templates. For example, BounceRates and ExitRates were used as indicators of user engagement, while PageValues was treated as an important signal related to purchase intent. ProductRelated and ProductRelated_Duration helped describe how much the user interacted with product pages.
 
 The templates were also designed to match the system goal: predicting purchase intention and making the result understandable. Therefore, the prompts focus on explanation, marketing action, personalization, and responsible communication.
+
+
+## Lessons Learned During Prompt Testing
+
+Several lessons were learned during the prompt testing process:
+
+- Prompts that include detailed user context and prediction results generate more accurate and personalized explanations.
+- Structured prompts produced clearer and more organized outputs than short generic prompts.
+- Including cluster information improved personalization and made the explanations more meaningful.
+- Very long prompts sometimes generated repetitive responses, so concise and focused prompts worked better.
+- Explicit instructions helped reduce hallucinations and improved factual consistency.
+- Different prompt styles produced noticeably different explanation quality, readability, and usefulness.
+
+## References to Prompt Engineering Best Practices
+
+The prompt templates were designed based on common prompt engineering best practices, including:
+
+- Using clear and specific instructions.
+- Providing structured input placeholders for consistency.
+- Limiting the AI response scope to reduce hallucinations.
+- Including contextual information to improve personalization.
+- Designing prompts with simple and readable language for non-technical users.
+- Comparing multiple prompt styles to evaluate output quality and effectiveness.
