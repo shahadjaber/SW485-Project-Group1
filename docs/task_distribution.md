@@ -1,6 +1,6 @@
 # Task Distribution
 
-##Phase 1 | Supervised Learning
+## Phase 1 | Supervised Learning
 ____________________________________________________
 ### Data & Domain Team
 - Shahad: Problem definition, Dataset justification
@@ -15,8 +15,8 @@ ____________________________________________________
 - Yasmeen Otyfah: Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation (Random Forest)
 - Wejdan Alrumaih:  Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation (Logistic Regression)
 
-##Phase 2 | UnSupervised Learning
+## Phase 2 | UnSupervised Learning
 ____________________________________________________
-###Unsupervised Learning Team 
-###Generative AI Team 
-###Integration & Documentation Lead 
+### Unsupervised Learning Team 
+### Generative AI Team 
+### Integration & Documentation Lead 
