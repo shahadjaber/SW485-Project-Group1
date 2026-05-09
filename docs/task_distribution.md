@@ -1,14 +1,22 @@
 # Task Distribution
 
-## Data & Domain Team
+##Phase 1 | Supervised Learning
+____________________________________________________
+### Data & Domain Team
 - Shahad: Problem definition, Dataset justification
 - Layan: EDA
 
-## Preprocessing & Visualization Team
+### Preprocessing & Visualization Team
 - Raghad Alyousef: Preprocessing pipeline documentation, interpretation of results, key insights & challenges
 - Roaa wadah: Data preprocessing implementation (cleaning, encoding, scaling)
 
-## Modeling & Evaluation Team
+### Modeling & Evaluation Team
 - Hajar Alonayq: Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation (GXBoots)
 - Yasmeen Otyfah: Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation (Random Forest)
 - Wejdan Alrumaih:  Model Selection & Rationale, Implementation & Training, Comprehensive Evaluation, Documentation (Logistic Regression)
+
+##Phase 2 | UnSupervised Learning
+____________________________________________________
+###Unsupervised Learning Team 
+###Generative AI Team 
+###Integration & Documentation Lead 
