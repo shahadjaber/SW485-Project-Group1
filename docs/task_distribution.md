@@ -21,8 +21,10 @@
 ### Unsupervised Learning Team 
 - Roaa wadah: K-Means Clustering & Silhouette Score (Unsupervised Learning)
 - Hajar Alonayq:  Agglomerative clustering, validation metrics, and data visualization
+- Wejdan Alrumaih: Strategy , Analysis
 ### Generative AI Team
 - Shahad: Prompt Template Design Documentation, prompt_design_rationale.md, AI prompt templates and rationale documentation
 - Raghad Alyousef: Best Prompt Selection & Justification, Integration Plan for Final System, Ethical Considerations & Limitations, Lessons Learned During Prompt Testing, References to Prompt Engineering Best Practices
+- Yasmeen Otyfah: Generative AI Model Selection & Setup ,Implementation & API Integration Code, Testing Framework & Output Comparison, Analysis: Qualitative & Quantitative Results     
 ### Integration & Documentation Lead 
 •	layan: cohesion between components, final deliverables , and presentation preparation 
